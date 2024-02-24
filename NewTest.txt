@@ -1,1 +1,2 @@
 Creates NewTest.txt file
+The content in the file has been changed
